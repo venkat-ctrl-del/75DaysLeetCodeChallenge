@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Union-Find
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 ## String
 |  |
 | ------- |
@@ -94,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 <!---LeetCode Topics End-->
