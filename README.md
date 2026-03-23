@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -101,10 +102,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
