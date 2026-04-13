@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-walking-robot-simulation](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0874-walking-robot-simulation) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
