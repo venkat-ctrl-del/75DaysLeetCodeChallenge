@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1622-fancy-sequence](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1622-fancy-sequence) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
+| [3783-mirror-distance-of-an-integer](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3783-mirror-distance-of-an-integer) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
