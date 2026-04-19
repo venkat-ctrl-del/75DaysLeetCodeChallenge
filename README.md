@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
 | [2751-robot-collisions](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
 | [2906-construct-product-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2906-construct-product-matrix) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/3661-maximum-walls-destroyed-by-robots) |
@@ -167,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2069-walking-robot-simulation-ii](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2069-walking-robot-simulation-ii) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2751-robot-collisions](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2751-robot-collisions) |
+## Two Pointers
+|  |
+| ------- |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 <!---LeetCode Topics End-->
