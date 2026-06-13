@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0647-palindromic-substrings](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0657-robot-return-to-origin) |
 | [0796-rotate-string](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0796-rotate-string) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2573-find-the-string-with-lcp](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/2573-find-the-string-with-lcp) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0647-palindromic-substrings](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/0647-palindromic-substrings) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/venkat-ctrl-del/75DaysLeetCodeChallenge/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Depth-First Search
 |  |
